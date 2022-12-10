@@ -1,0 +1,12 @@
+{
+	"package": {
+		"script": [
+			{"format":"obj.1b"},
+			{"description_comment":"package"}
+		],
+		"contents": [
+			{"string":"none"},
+			{"description":"package"}
+		]
+	}
+}
